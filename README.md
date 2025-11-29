@@ -4,7 +4,7 @@ This project contains code for my DS 785 - Capstone Project titled 'Providing Us
 
 The primary goal of this project was to build a hybrid content recommendation engine using callaborative and content-based filtering. To accomplish this, KNN and Neural Networks were used in a hybrid approach to achieve 81.5% predictive accuracy. 
 
-Full commentary on this project is provided in the final paper. For access to this paper (those outside of UWEX), please contact me at 17arhomberg@gmail.com.
+Full commentary on this project is provided in the final paper.
 
 # Project Directory
 
